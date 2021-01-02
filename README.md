@@ -50,6 +50,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-8A2BE2?style=flat-square&logo=insomnia&logoColor=white)
 
+![Daniel Status](https://github-readme-stats.vercel.app/api?username=danieljuniorce&count_private=true&theme=dark)
 <!--
 **danieljuniorce/danieljuniorce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
