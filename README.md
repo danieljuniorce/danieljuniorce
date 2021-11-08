@@ -31,6 +31,9 @@
   MyInfo.info()
   MyInfo.contacts()
 ```
+
+![status](https://github-profile-trophy.vercel.app/?username=danieljuniorce&row=1&theme=discord)
+
 ### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -48,6 +51,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-8A2BE2?style=flat-square&logo=insomnia&logoColor=white)
+
 
 ![Daniel Status](https://github-readme-stats.vercel.app/api?username=danieljuniorce&count_private=true&theme=dark)
 <!--
