@@ -8,9 +8,9 @@
       return {
         github: '@danieljuniorce',
         instagram: 'https://instagram.com/danieljuniorce',
-        discord: 'Daniell#6729',
+        discord: 'danieljuniorce#6729',
         telegram: 'danieljuniorce',
-        linkedin: 'https://www.linkedin.com/in/daniel-souza-477a83a4/'
+        linkedin: 'https://www.linkedin.com/in/danieljuniorce'
       }
     }
     
