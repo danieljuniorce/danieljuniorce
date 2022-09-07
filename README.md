@@ -10,7 +10,8 @@
         instagram: 'https://instagram.com/danieljuniorce',
         discord: 'danieljuniorce#6729',
         telegram: 'danieljuniorce',
-        linkedin: 'https://www.linkedin.com/in/danieljuniorce'
+        linkedin: 'https://www.linkedin.com/in/danieljuniorce',
+        job: 'IZI App'
       }
     }
     
@@ -18,7 +19,7 @@
       return {
         name: 'Daniel',
         surname: 'Souza',
-        yearsOld: '23',
+        yearsOld: '24',
         country: 'Brazil',
         state: 'Ceará',
         city: 'Fortaleza'
@@ -54,17 +55,3 @@
 
 
 ![Daniel Status](https://github-readme-stats.vercel.app/api?username=danieljuniorce&count_private=true&theme=dark)
-<!--
-**danieljuniorce/danieljuniorce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
