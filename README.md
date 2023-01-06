@@ -29,8 +29,8 @@
   
   const MyInfo = new Daniel()
   
-  MyInfo.info()
-  MyInfo.contacts()
+  console.log(MyInfo.info())
+  console.log(MyInfo.contacts())
 ```
 
 ![status](https://github-profile-trophy.vercel.app/?username=danieljuniorce&row=1&theme=discord)
