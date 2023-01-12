@@ -33,7 +33,7 @@
   console.log(MyInfo.contacts())
 ```
 
-![status](https://github-profile-trophy.vercel.app/?username=danieljuniorce&row=1&theme=discord)
+[Daniel Github stats](https://github-readme-stats.vercel.app/api?username=danieljuniorce&show_icons=true&theme=radical)
 
 ### Languages and Tools:
 
