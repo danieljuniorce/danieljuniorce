@@ -8,7 +8,7 @@
       return {
         github: '@danieljuniorce',
         instagram: 'https://instagram.com/danieljuniorce',
-        discord: 'danieljuniorce#6729',
+        discord: 'danieljuniorce',
         telegram: 'danieljuniorce',
         linkedin: 'https://www.linkedin.com/in/danieljuniorce',
         job: 'IZI App'
@@ -19,7 +19,7 @@
       return {
         name: 'Daniel',
         surname: 'Souza',
-        yearsOld: '24',
+        yearsOld: '25',
         country: 'Brazil',
         state: 'Ceará',
         city: 'Fortaleza'
