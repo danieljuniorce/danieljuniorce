@@ -11,7 +11,7 @@
         discord: 'danieljuniorce',
         telegram: 'danieljuniorce',
         linkedin: 'https://www.linkedin.com/in/danieljuniorce',
-        job: 'IZI App'
+        job: 'Fluke'
       }
     }
     
